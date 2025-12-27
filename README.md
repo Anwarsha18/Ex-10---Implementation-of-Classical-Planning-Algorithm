@@ -1,7 +1,7 @@
 #ExpNo:10 Implementation of Classical Planning Algorithm 
 
-NAME:  
-REG NO:
+NAME: Anwarsha E.M
+REG NO:2305001002
 ## Algorithm or Steps Involved:
 Define the initial state
 Define the goal state
